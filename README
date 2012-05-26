@@ -3,3 +3,7 @@ ChromeStats is a highly experimental Google Chrome extension which sends page vi
 You will need statsd running on localhost, or you can customise the ip address.
 
 Chrome seems not to cope with dns lookups, so you can't currently use a hostname.
+
+Obligatory screenshot:
+
+  http://i.imgur.com/vdMxB.png
