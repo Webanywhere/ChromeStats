@@ -1,0 +1,5 @@
+ChromeStats is a highly experimental Google Chrome extension which sends page views to a local statsd server.
+
+You will need statsd running on localhost, or you can customise the ip address.
+
+Chrome seems not to cope with dns lookups, so you can't currently use a hostname.
